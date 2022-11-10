@@ -1,0 +1,24 @@
+body{
+   background-color: rgba(1, 1, 16, 0.707);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.container{
+    /* border: 2px solid white; */
+    margin: auto;
+}
+.time{
+    font-size: 200px;
+    padding: 30px;
+    color: white;
+}
+.buttons{
+    text-align: center;
+}
+.btn{
+    padding: 30px;
+    cursor: pointer;
+    margin-left: 30px;
+}
